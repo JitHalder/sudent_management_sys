@@ -13,13 +13,14 @@ This project is a student management system developed using Java Swing and SQL. 
 1. Java 8 or later
 2. MySQL database
 3. JDBC driver
+4. Apache NetBeans IDE
 
 
 # Installation
 1. Clone the repository
 2. Import the SQL script to create the database tables
 3. Update the database connection properties in the db.properties file
-4. Build and run the project using an IDE or command-line tool
+4. Build and run the project using Apache NetBeans IDE.
 
 
 # Usage
