@@ -1,4 +1,4 @@
-# sudent_management_system
+# Sudent_management_system
 
 This project is a student management system developed using Java Swing and SQL. The system allows administrators to manage student information, including personal details, course information, and grades. Students can access their results on portal.
 
